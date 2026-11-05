@@ -1,0 +1,34 @@
+Course Deliverables Master List (D0 – D10)
+D0: Team Charter, Client Intake, Repository Setup and AI Contract
+
+D1: Project Proposal, Feasibility and Business Considerations
+
+D2: Software Requirements Specification (SRS) (Mapped to our existing RoNix SRS document)
+
+D3: Product Backlog, UX Prototype and Sprint 1 Plan
+
+D4: Architecture, CI/CD Baseline and Mid-Sem Architecture Defense
+
+D5: Sprint 1 Review Report and Working Prototype v0.1
+
+D6: Sprint 2 Review Report, Test Plan and Quality Evidence
+
+D7: Sprint 3 Review Report, Security/Privacy/AI Audit and Observability Evidence
+
+D8: Sprint 4 Review Report, Release Candidate and User Manual Draft
+
+D9: Final Demo, User Manual, Deployment/Ops Guide and Client Handoff Pack
+
+D10: Final Repository Freeze, Post-Mortem, Peer Evaluation and Individual Evidence Pack
+
+
+
+
+
+
+COMMANDS FOR THE RONIX APP
+
+npx expo start
+cd mobile
+npx expo install --fix
+npx expo start -c
